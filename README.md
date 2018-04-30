@@ -6,7 +6,7 @@ Biker! - clone of classic arcade game _Frogger_, made as 4th project for _Google
 
 ## Gameplay instructions:
 
-Enter: 
+Enter: https://dawspa.github.io/arcade/
 
 Use the arrow keys to drive the motorcycle across the street. Don't hit any car!
 
