@@ -55,7 +55,7 @@ Player.prototype.update = function () {
     }
 
     allEnemies.forEach(function (enemy) {
-        if (hero.x >= enemy.x - 25 && hero.x <= enemy.x + 25) {
+        if (hero.x >= enemy.x - 45 && hero.x <= enemy.x + 45) {
             if (hero.y >= enemy.y - 25 && hero.y <= enemy.y + 25) {
                 hero.reset();
             }
