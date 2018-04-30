@@ -171,7 +171,6 @@ var Engine = (function(global) {
     Resources.load([
         'images/stone-block.png',
         'images/grass-block.png',
-        'images/enemy-bug.png',
         'images/motorcycle_red.png',
         'images/car_black_1.png',
         'images/car_blue_2.png',
