@@ -1,6 +1,24 @@
-frontend-nanodegree-arcade-game
-===============================
+#Biker! arcade game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+_Help the brave biker to cross the street in the rush hour._
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Biker! - clone of classic arcade game _Frogger_, made as 4th project for _Google Udacity Front End Nanodegree Scholarship_. Powered by `JS ES6` and *HTML canvas*.
+
+## Gameplay instructions:
+
+Enter: 
+
+Use the arrow keys to drive the motorcycle across the street. Don't hit any car!
+
+##Issues
+
+Please use Githubs issue tracker [here]() to send me Your feedback.
+
+##License
+
+
+This project is under standard MIT license (use for whatever You want, just credit me), found [here]()
+
+Licensed materials used: Game assets (cars and bike) from: http://kenney.nl/assets
+
+**Thank You for checking out my project!**
