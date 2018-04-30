@@ -1,4 +1,4 @@
-#Biker! arcade game
+# Biker! arcade game
 
 _Help the brave biker to cross the street in the rush hour._
 
@@ -10,14 +10,14 @@ Enter:
 
 Use the arrow keys to drive the motorcycle across the street. Don't hit any car!
 
-##Issues
+## Issues
 
-Please use Githubs issue tracker [here]() to send me Your feedback.
+Please use Githubs issue tracker [here](https://github.com/dawspa/arcade/issues) to send me Your feedback.
 
-##License
+## License
 
 
-This project is under standard MIT license (use for whatever You want, just credit me), found [here]()
+This project is under standard MIT license (use for whatever You want, just credit me), found [here](https://github.com/dawspa/arcade/blob/master/LICENSE)
 
 Licensed materials used: Game assets (cars and bike) from: http://kenney.nl/assets
 
