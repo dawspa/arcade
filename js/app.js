@@ -1,9 +1,15 @@
-// Enemies our player must avoid
 const Enemy = function (x, y) {
-    this.sprite = 'images/enemy-bug.png'; //enemy array  variable
+    this.sprite = enemySprite(); //enemy array  variable
     this.x = x;
     this.y = y;
     this.speed = Math.floor((Math.random() * 180) + 120);
+};
+
+const ImageArray = ['images/car_black_1.png', 'images/car_blue_2.png', 'images/car_green_3.png', 'images/car_red_4.png', 'images/car_yellow_5.png'];
+
+let enemySprite = function () {
+    let pos = Math.floor(Math.random() * 5);
+    return ImageArray[pos];
 };
 
 Enemy.prototype.update = function(dt) {
